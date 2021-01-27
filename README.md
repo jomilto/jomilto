@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m a backend developer. PHP 🐘. Pyhton 🐍. NodeJS 🍀.
+- 🌱 I’m currently learning Javascript, and some frontend technologies.
+
 <!--
 **jomilto/jomilto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
