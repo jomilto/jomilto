@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Javascript, and some frontend technologies.
 - And now I'm updating my Java knowledge
 
+You can also find me as @joseNimblr
+
 <!--
 **jomilto/jomilto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
